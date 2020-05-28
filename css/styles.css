@@ -1,4 +1,6 @@
 .my-class {
     border: 2px solid blueviolet;
     padding 7px;
+    margin: 150px;
+    background-color: cadetblue;
 }
